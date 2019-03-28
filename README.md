@@ -2,7 +2,7 @@
 https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e4810542504ccf71c7...b916e9793eeed258a6be1d843f12e8cfcc71b3b2
 
  联系QQ 237162532
- 提供功能定制, 已收费。
+ 提供功能定制, 已收费，无试用。
 
  4.3不仅仅是对代码的审核，还是对同类功能的审核。只能提高几率。所以别问我能不能过。看脸
 
